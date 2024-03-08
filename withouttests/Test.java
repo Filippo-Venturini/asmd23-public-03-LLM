@@ -1,4 +1,4 @@
-package a01a.e1;
+package a01a.withouttests;
 
 import static org.junit.Assert.*;
 
@@ -35,7 +35,7 @@ public class Test {
 
 	@org.junit.Before
 	public void initFactory() {
-		//this.factory = new TimetableFactoryImpl();
+		this.factory = new TimetableFactoryImpl();
 	}
 
 	@org.junit.Test
