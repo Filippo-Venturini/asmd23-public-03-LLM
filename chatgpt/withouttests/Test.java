@@ -1,4 +1,4 @@
-package a01a.withouttests;
+package a01a.chatgpt.withouttests;
 
 import static org.junit.Assert.*;
 
