@@ -33,3 +33,22 @@ The code generated is located in the package *chatgpt.withtests* and it consists
 
 - Regarding the **quality** of the code produced, the code is a bit **repetitive** in both scenarios, but cleaner in the second one.
 
+## Task 2 - Testing
+
+In this task, given the solution of the exercise used in the previous one, `ChatGPT` is used to generate JUnit tests and then they are compared to the ones already present.
+
+After giving to `ChatGPT` the implementation of the `TimetableFactory`, the following prompt was written:
+
+> "Given this implementation, write me JUnit tests cases for test all the methods of this class"
+
+The code generated can be found at the following path *testing/Test*. 
+
+After this first prompt the tests generated were enough to cover all the main functions of the implementation such as: Empty, Single, Join and Cut.
+
+`ChatGPT` also included in the solution the possibility to generate other tests to cover edge cases like adding multiple hours for the same activity and day, joining multiple timetables together.
+
+> "Add tests as you wrote in the comment to cover edge cases"
+
+### Conclusions
+
+In this scenario `ChatGPT` generated satisfactory tests, that covers all the aspects of the implementation and also some edge cases. Was not necessary to use a particular prompt strategy to make the tests more accurate or complete.
