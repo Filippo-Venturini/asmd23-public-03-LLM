@@ -1,4 +1,4 @@
-package a01a.sol1;
+package a01a.codegeneration.chatgpt.withouttests;
 
 import java.util.Objects;
 

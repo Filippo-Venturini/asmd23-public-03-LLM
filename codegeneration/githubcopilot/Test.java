@@ -1,6 +1,4 @@
-package a01a.githubcopilot;
-
-import a01a.chatgpt.withouttests.TimetableFactoryImpl;
+package a01a.codegeneration.githubcopilot;
 
 import java.util.Set;
 

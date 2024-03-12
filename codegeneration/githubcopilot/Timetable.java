@@ -1,6 +1,6 @@
-package a01a.sol1;
+package a01a.codegeneration.githubcopilot;
 
-import java.util.*;
+import java.util.Set;
 
 /**
  * Models a timetable, a table in which each row reports the number of hours (>= 0) spent in each activity, and each column represents a given day.

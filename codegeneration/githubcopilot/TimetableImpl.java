@@ -1,4 +1,4 @@
-package a01a.githubcopilot;
+package a01a.codegeneration.githubcopilot;
 
 import java.util.Set;
 

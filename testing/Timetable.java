@@ -1,4 +1,4 @@
-package a01a.chatgpt.withouttests;
+package a01a.testing;
 
 import java.util.*;
 

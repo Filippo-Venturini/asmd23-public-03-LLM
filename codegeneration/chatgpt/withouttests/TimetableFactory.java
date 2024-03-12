@@ -1,6 +1,6 @@
-package a01a.githubcopilot;
+package a01a.codegeneration.chatgpt.withouttests;
 
-import java.util.function.BiFunction;
+import java.util.function.*;
 
 public interface TimetableFactory {
 	

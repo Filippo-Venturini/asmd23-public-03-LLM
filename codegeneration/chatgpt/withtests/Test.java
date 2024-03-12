@@ -1,7 +1,7 @@
-package a01a.chatgpt.withtests;
+package a01a.codegeneration.chatgpt.withtests;
 
-import a01a.chatgpt.withouttests.Timetable;
-import a01a.chatgpt.withouttests.TimetableFactory;
+import a01a.codegeneration.chatgpt.withouttests.Timetable;
+import a01a.codegeneration.chatgpt.withouttests.TimetableFactory;
 
 import static org.junit.Assert.*;
 

@@ -1,6 +1,6 @@
-package a01a.githubcopilot;
+package a01a.codegeneration.chatgpt.withouttests;
 
-import java.util.Set;
+import java.util.*;
 
 /**
  * Models a timetable, a table in which each row reports the number of hours (>= 0) spent in each activity, and each column represents a given day.

@@ -1,4 +1,4 @@
-package a01a.chatgpt.withouttests;
+package a01a.codegeneration.chatgpt.withouttests;
 
 import static org.junit.Assert.*;
 

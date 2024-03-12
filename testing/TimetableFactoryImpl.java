@@ -1,4 +1,4 @@
-package a01a.sol1;
+package a01a.testing;
 
 import java.util.*;
 import java.util.stream.*;
