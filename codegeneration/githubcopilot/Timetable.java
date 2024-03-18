@@ -38,4 +38,6 @@ public interface Timetable {
 	 * @return how many hours were spent overall on @activities at the given @days
 	 */
 	int sums(Set<String> activities, Set<String> days);
+
+	Timetable addActivity(String activity, String day);
 }
